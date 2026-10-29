@@ -1,0 +1,6 @@
+# Server-specific credentials and runtime data
+rcon.cfg
+database.cfg
+*.log
+*.state
+map-history*

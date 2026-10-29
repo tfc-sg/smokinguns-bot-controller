@@ -1,0 +1,7 @@
+# Optional MySQL configuration for ?lastonline, ?xlrstats, ?top10 and ?statistic.
+# Do not commit the real database.cfg.
+host = 127.0.0.1
+port = 3306
+database = b3
+user = b3
+password = CHANGE_ME

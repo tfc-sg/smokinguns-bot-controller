@@ -1,0 +1,3 @@
+# Do not commit the real rcon.cfg.
+port = 27961
+password = CHANGE_ME
